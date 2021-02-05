@@ -1,0 +1,117 @@
+#menu{
+    /* height: 120px;
+  width: 1520px;
+  background-color:#0173b2; */
+  float: right;
+}
+ul{
+    list-style-type: none;
+    
+}
+li a,li{
+    text-decoration: none;
+    font-size: 20px;
+    color: white;
+    float:left;
+    padding: 8px;
+
+    
+}
+header{
+    /* height: 450px;
+  width: 1520px; */
+  background-image: url('1.png');
+}
+#Heading{
+    text-align: center;
+    color: white;
+    font-size: 40px;
+    padding-top: 100px;
+    font-family: monospace;
+    
+    
+}
+#para{
+    text-align: center;
+    color: white;
+    font-size: 20px;
+    padding-bottom: 70px;
+    font-family: monospace;
+}
+#Serlogo{
+    text-decoration: none;
+    font-size: 30px;
+    color: white;
+    margin-left: 45%;
+    border: 1px solid white;
+    border-radius: 45px;
+    padding: 5px;
+    padding-right: 30px;
+}
+.selected{
+    border: 1px solid white;
+    border-radius: 45px;
+    background-color: white;
+    color: #0173b2;
+}
+#S3{
+  background-color: aliceblue;
+  width: 35%;
+  float: left;
+  margin-left: 13%;
+  padding-right: 30px;
+}
+#S4{
+  background-color: aliceblue;
+  width: 35%;
+  float: left;
+
+}
+#S5{
+  float: left;
+  background-image: url('office.jpg'); width: 100%;
+  width: 1500px;
+  height: 250px;
+}
+#S6{
+  float: left;
+  width: 25%;
+  margin-left: 10%;
+  margin-top: 7%;
+  padding-right: 500px;
+}
+#S7{
+  width: 25%;
+  float: left;
+  margin-top: 7%;
+}
+#S8{
+  padding-top: 600px;
+  width: 50%;
+  margin-left: 25%;
+}
+#S9{
+  background-color: honeydew;
+  width: 75%;
+  height: 400px;
+  margin-left: 10%;
+  margin-right: 10%;
+  border: 1px solid gray;
+  
+}
+#S10{
+  width: 30%;
+  height: 300px;
+  margin-left: 12%;
+  float: left;
+  border: 1px solid gray;
+  padding-right: 30px;
+  
+}
+#S11{
+  width: 30%;
+  height: 300px;
+  float: left;
+  border: 1px solid gray;
+  
+}
